@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xozQlHqKSAwdEP+ItMGflMmmIEEmZjv3nWFAlta6MQrCX7RnZHbMX5QB5kpE7z5ijKLwNBgjTmPWWSP2to/Gtg==",
+  "success": true,
+  "projectFilePath": "C:\\work\\SevenDeadlySinsApp\\SDS.Core.Entity\\SDS.Core.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mega_\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mega_\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

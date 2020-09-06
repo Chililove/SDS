@@ -1,0 +1,4 @@
+C:\work\SevenDeadlySinsApp\SDS.Core\obj\Debug\netstandard2.0\SDS.Core.csprojAssemblyReference.cache
+C:\work\SevenDeadlySinsApp\SDS.Core\obj\Debug\netstandard2.0\SDS.Core.AssemblyInfoInputs.cache
+C:\work\SevenDeadlySinsApp\SDS.Core\obj\Debug\netstandard2.0\SDS.Core.AssemblyInfo.cs
+C:\work\SevenDeadlySinsApp\SDS.Core\obj\Debug\netstandard2.0\SDS.Core.csproj.CoreCompileInputs.cache

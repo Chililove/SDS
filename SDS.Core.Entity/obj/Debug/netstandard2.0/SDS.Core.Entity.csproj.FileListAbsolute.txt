@@ -1,0 +1,9 @@
+C:\work\SevenDeadlySinsApp\SDS.Core.Entity\bin\Debug\netstandard2.0\SDS.Core.Entity.deps.json
+C:\work\SevenDeadlySinsApp\SDS.Core.Entity\bin\Debug\netstandard2.0\SDS.Core.Entity.dll
+C:\work\SevenDeadlySinsApp\SDS.Core.Entity\bin\Debug\netstandard2.0\SDS.Core.Entity.pdb
+C:\work\SevenDeadlySinsApp\SDS.Core.Entity\obj\Debug\netstandard2.0\SDS.Core.Entity.csprojAssemblyReference.cache
+C:\work\SevenDeadlySinsApp\SDS.Core.Entity\obj\Debug\netstandard2.0\SDS.Core.Entity.AssemblyInfoInputs.cache
+C:\work\SevenDeadlySinsApp\SDS.Core.Entity\obj\Debug\netstandard2.0\SDS.Core.Entity.AssemblyInfo.cs
+C:\work\SevenDeadlySinsApp\SDS.Core.Entity\obj\Debug\netstandard2.0\SDS.Core.Entity.csproj.CoreCompileInputs.cache
+C:\work\SevenDeadlySinsApp\SDS.Core.Entity\obj\Debug\netstandard2.0\SDS.Core.Entity.dll
+C:\work\SevenDeadlySinsApp\SDS.Core.Entity\obj\Debug\netstandard2.0\SDS.Core.Entity.pdb
